@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+I'm student at 42Paris
 <!--
 **Aliceterrick/Aliceterrick** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
